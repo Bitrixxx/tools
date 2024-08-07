@@ -1,0 +1,15 @@
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/bin/Debug/net8.0/dotnet-service
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/bin/Debug/net8.0/dotnet-service.deps.json
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/bin/Debug/net8.0/dotnet-service.runtimeconfig.json
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/bin/Debug/net8.0/dotnet-service.dll
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/bin/Debug/net8.0/dotnet-service.pdb
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/dotnet-service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/dotnet-service.AssemblyInfoInputs.cache
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/dotnet-service.AssemblyInfo.cs
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/dotnet-service.csproj.CoreCompileInputs.cache
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/dotnet-service.sourcelink.json
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/dotnet-service.dll
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/refint/dotnet-service.dll
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/dotnet-service.pdb
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/dotnet-service.genruntimeconfig.cache
+/Users/beatriz.tejedorlinnworks.com/Bitrixxx/tools/dotnet-service/obj/Debug/net8.0/ref/dotnet-service.dll
